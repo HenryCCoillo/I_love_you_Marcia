@@ -83,12 +83,12 @@ audio {
   
   .text {
     position: absolute;
-    font-family: 'Brush Script MT', cursive;
+    font-family: "Alex Brush", serif;
     font-size: 28px;
     text-align: center;
     line-height:25px;
     top:19px;
-    left: 66px;
+    left: 60px;
     color: #003049;
   }
   
